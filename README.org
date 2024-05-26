@@ -15,13 +15,19 @@ Mono/Tristesse and members of the AtariAge community
 ABBUC e.V. (https://abbuc.de) has acquired rights for the original and
 enhanced CompyShop products through Klaus Peters on 3rd of May 1997.
 
+If you build a product based on the Speedy 1050 firmware, please honor
+the GPLv3 license and publish your code under the same or compatible
+license. Please let us know about your product by creating in
+informational /github issue/ in this repository or reach out via email
+to info@compyshop.de.
+
 * TODO:
 
- [ ] Translate German code comments into english
- [ ] Dump newer ROM files
- [ ] Dissassemble new ROM files
- [ ] make source compatible with modern Atari 8bit assembler (MADS and Fast Assembler)
- [ ] further enhancement of the Speedy 1050 ROM firmware
+ * [ ] Translate German code comments into english
+ * [ ] Dump newer ROM files
+ * [ ] Dissassemble new ROM files
+ * [ ] make source compatible with modern Atari 8bit assembler (MADS and Fast Assembler)
+ * [ ] further enhancement of the Speedy 1050 ROM firmware
 
 Note to the original Authors: ABBUC e.V. does not have legal documents
 regarding the rights of the original authors of this software. Please
