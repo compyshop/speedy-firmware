@@ -1,0 +1,30 @@
+* Speedy 1050 firmware
+
+Firmware (OS-ROM) of the CompyShop Speedy 1050 floppy speeder firmware
+
+The source of the Firmware ROM was originally published by CompyShop
+in the /Anwender Handbuch und ROM Listing/ publication
+(https://atariwiki.org/wiki/attach/CompyShop%20Speedy%20Upgrades/Speedy1050%20Anwenderhandbuch%20und%20ROM%20Listing.pdf).
+
+The Speedy 1050 ROM was created by Peter Bee, Erwin Reuß und Reinhard Wilde.
+
+The PDF was made readable via OCR by /voy/ and corrected with the help
+Mono/Tristesse and members of the AtariAge community
+(https://forums.atariage.com/topic/258476-speedy-1050-v10-by-compy-shop-source-code-ocred/).
+
+ABBUC e.V. (https://abbuc.de) has acquired rights for the original and
+enhanced CompyShop products through Klaus Peters on 3rd of May 1997.
+
+* TODO:
+
+ [ ] Translate German code comments into english
+ [ ] Dump newer ROM files
+ [ ] Dissassemble new ROM files
+ [ ] make source compatible with modern Atari 8bit assembler (MADS and Fast Assembler)
+ [ ] further enhancement of the Speedy 1050 ROM firmware
+
+Note to the original Authors: ABBUC e.V. does not have legal documents
+regarding the rights of the original authors of this software. Please
+get in touch (info@compyshop.de) if you have objections regarding the
+repository. We would also like to hear from you if you are could help
+our project with original source code or developer notes.
